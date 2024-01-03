@@ -1,0 +1,16 @@
+:root {
+	--main-background-color: #F6F7F8;
+	--blocks-background-color: #FFFFFF;
+	--blocks-background-color2: #333333;
+	--font-color: rgba(0, 0, 0, 0.80);
+	--font-color-noHover: rgba(0, 0, 0, 0.54);
+	--accent-color: #336FEE;
+	--button-color: #FFDD2D;
+	--button-color-hover: #FCC521;
+	--button-color-active: #FAB619;
+	--font-size-1: 44px;
+	--font-size-2: 24px;
+	--font-size-3: 15px;
+	--font-size-4: 13px;
+	--height-header: 104px;
+}
